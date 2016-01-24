@@ -55,9 +55,8 @@ pswitcher:
 
 demo
 -----------------------------
-[mp4](https://github.com/ybrs/project-switcher/blob/master/demo.mp4?raw=true)
-
-
+[mp4](https://github.com/ybrs/project-switcher/blob/master/assets/demo.mp4?raw=true)
+![https://github.com/ybrs/project-switcher/blob/master/assets/demo.gif?raw=true](https://github.com/ybrs/project-switcher/blob/master/assets/demo.gif?raw=true)
 
 hassle free project switching
 -----------------------------
